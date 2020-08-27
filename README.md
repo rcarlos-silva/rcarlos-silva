@@ -1,16 +1,27 @@
-### Hi there 👋
+Olá 👋
 
-<!--
-**rcarlos-silva/rcarlos-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😎 - Me chamo Rhuan Carlos.
 
-Here are some ideas to get you started:
+📚 - Atualmente estou cursando Análise e Desenvolvimento de Sistemas e um bootcamp de Web Full Stack Development na Labenu.(https://www.labenu.com.br/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 - Atualmente trabalho com freelances, principalmente com front end e no meu repositório tem alguns projetos do curso e alguns projetos próprios que criei para exercitar meus conhecimentos e por diversão.
+
+💡 - O que costumo fazer:
+
+1 - Aplicações Web com :
+- HTML;
+- CSS3;
+- JavaScript;
+- React.js;
+- Typescript;
+- Git;
+- Github;
+- SQL;
+- Firebase;
+- Wordpress;
+- Unit testing;
+
+2 - Criar páginas e estudar marketing digital, SEO, googleADS, Facebook ADS, YouTube.
+
+Quer falar comigo? Estou a disposição la no Linkedin: https://www.linkedin.com/in/rhuan-carlos-silva-84043a146/
+Ou me manda um email para Freelances: rhuancarlos.silva12@gmail.com
